@@ -102,7 +102,7 @@ Three iterative design models were developed in SolidWorks:
 - Model 2 — Revised frame geometry with rope-pulley integration  
 - Model 3 — Final design with track system and modular dismountable base
 
-> *[Insert screenshots of your SolidWorks models here]*
+
 
 ---
 
@@ -116,7 +116,7 @@ Static load case analysis performed on the main frame assembly under operational
 - Analysis type: Static structural
 - Result: Frame passes safety factor requirement under maximum operational load
 
-> *[Insert your ANSYS stress/deformation screenshots here]*
+
 
 ---
 
