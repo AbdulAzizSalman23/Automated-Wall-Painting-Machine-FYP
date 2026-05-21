@@ -20,7 +20,8 @@ Manual wall painting exposes workers to toxic VOCs (benzene, toluene) and is lim
 
 ## 🎥 System Overview
 
-> *[Insert a photo or GIF of the machine here — drag and drop an image into the README editor]*
+> *<img width="802" height="826" alt="17793391355977349903158325774500" src="https://github.com/user-attachments/assets/cf4d7e35-b8b8-4314-bfd1-da6655405e08" />
+*
 
 The machine covers **3 metres height × 2 metres width** — standard Indian room dimensions. It operates autonomously once placed on the track, detecting and avoiding obstacles such as windows and switchboards.
 
